@@ -1,0 +1,15 @@
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\bin\Debug\net6.0\RegexDemo.exe
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\bin\Debug\net6.0\RegexDemo.deps.json
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\bin\Debug\net6.0\RegexDemo.runtimeconfig.json
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\bin\Debug\net6.0\RegexDemo.dll
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\bin\Debug\net6.0\RegexDemo.pdb
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.AssemblyReference.cache
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfoInputs.cache
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.AssemblyInfo.cs
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.dll
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\refint\RegexDemo.dll
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.pdb
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\RegexDemo.genruntimeconfig.cache
+C:\Users\Sourav Prasanna\source\repos\RegexDemo\RegexDemo\obj\Debug\net6.0\ref\RegexDemo.dll
